@@ -1,5 +1,6 @@
 # Pose-detection-demo
 Pose Detection using MediaPipe and OpenCV.
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/3da7e8fa-3d6b-4bc6-85a9-c2561b966dd5" />
 
 ## What it does
 Opens the webcam and detects body landmarks like shoulders, elbows, hips and knees in real time. Draws a skeleton structure on the body and shows Pose Detected or No Pose Detected status on screen.
@@ -18,3 +19,6 @@ Pose detection is a computer vision technique that uses AI to detect and track k
 ```
 pip install opencv-contrib-python==4.8.0.76 mediapipe==0.10.14 protobuf==4.25.3 numpy==1.24.3
 python pose.py
+```
+
+
